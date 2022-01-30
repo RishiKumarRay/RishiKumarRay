@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikumarray&label=Profile%20views&color=0e75b6&style=flat" alt="rishikumarray" /> </p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=rishikumarray&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rishikumarray&theme=gruvbox&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/rkr2899" target="blank"><img src="https://img.shields.io/twitter/follow/rkr2899?logo=twitter&style=for-the-badge" alt="rkr2899" /></a> </p>
 
