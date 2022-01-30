@@ -26,5 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikumarray&show_icons=true&locale=en&layout=compact" alt="rishikumarray" /></p>
 
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikumarray&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikumarray&theme=radical" alt="rishikumarray" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikumarray&theme=dark)](https://git.io/streak-stats)
