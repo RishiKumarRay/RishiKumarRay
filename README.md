@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h1 align="center">Hii 👋, I'm Rishi</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <img align="center" height="350" width="500" alt="GIF" src="0_7Q3yvSIv_t0ioJ-Z.gif">
