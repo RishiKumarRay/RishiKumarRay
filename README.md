@@ -27,3 +27,4 @@
 
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikumarray&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikumarray&theme=dark)](https://git.io/streak-stats)
+[![Rishi's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishikumarray&theme=dracula)]
