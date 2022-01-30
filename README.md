@@ -25,4 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikumarray&show_icons=true&locale=en&layout=compact" alt="rishikumarray" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikumarray&theme=dark" alt="rishikumarray" /></p>
-![Rishi's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishikumarray&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
